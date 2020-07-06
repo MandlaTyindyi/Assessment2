@@ -1,4 +1,4 @@
-# GlobalKineticsAssessment2
+# Mobile Automation (APPIUM)
 
 
 ##GENERAL INFO
