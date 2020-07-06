@@ -3,7 +3,7 @@
 
 ##GENERAL INFO
 
-This project shows a simple use of a test automation tool to automate tests for a mobile application. In this project I used the "" apk file to try and demonstrate basic navigation and basic functionality.
+This project shows a simple use of a test automation tool to automate tests for a mobile application. In this project I used the "android-ump-mobile-debug-67a35ff-1.apk" file to try and demonstrate basic navigation and basic functionality.
 
 ##TOOLS
 
