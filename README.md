@@ -20,4 +20,5 @@ This project shows a simple use of a test automation tool to automate tests for 
 * The apk file in "...GlobalKineticAssessment2/src/test/resources/apps/android-ump-mobile-debug-67a35ff-1.apk"
 
 
+
 Total Time Taken - About 7 hours
